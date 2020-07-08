@@ -1,0 +1,422 @@
+[
+    {
+        "diffcase_residual": 1.0722446454334975,
+        "region": "adygea republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0434\u044b\u0433\u0435\u044f"
+    },
+    {
+        "diffcase_residual": 0.48480783437940206,
+        "region": "altai krai",
+        "ru_region": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 1.419692587028504,
+        "region": "altai republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 0.5377702718357802,
+        "region": "amur oblast",
+        "ru_region": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.43853501398294065,
+        "region": "arkhangelsk oblast",
+        "ru_region": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.8476260446300734,
+        "region": "astrakhan oblast",
+        "ru_region": "\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.4964600557523136,
+        "region": "bashkortostan republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d"
+    },
+    {
+        "diffcase_residual": 0.2084077628287954,
+        "region": "belgorod oblast",
+        "ru_region": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.6191904348116811,
+        "region": "bryansk oblast",
+        "ru_region": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.8464165172862145,
+        "region": "buryatia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u044f\u0442\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.48117656286284216,
+        "region": "chechen republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f"
+    },
+    {
+        "diffcase_residual": 0.7691050422089097,
+        "region": "chelyabinsk oblast",
+        "ru_region": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.7853718493480106,
+        "region": "chukotka autonomous okrug",
+        "ru_region": "\u0427\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0410\u041e"
+    },
+    {
+        "diffcase_residual": 0.3272300651469542,
+        "region": "chuvashia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0443\u0432\u0430\u0448\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.40702520727536823,
+        "region": "dagestan republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d"
+    },
+    {
+        "diffcase_residual": 0.5064200554885224,
+        "region": "ingushetia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 1.2927619848251397,
+        "region": "irkutsk oblast",
+        "ru_region": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.6522927858801776,
+        "region": "ivanovo oblast",
+        "ru_region": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.7141085149136994,
+        "region": "jewish autonomous okrug",
+        "ru_region": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0410\u041e"
+    },
+    {
+        "diffcase_residual": 0.23941161602194258,
+        "region": "kabardino-balkarian republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.941806066809685,
+        "region": "kaliningrad oblast",
+        "ru_region": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 3.288674219355953,
+        "region": "kalmykia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.4086851442501857,
+        "region": "kaluga oblast",
+        "ru_region": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 1.1051225981229342,
+        "region": "kamchatka krai",
+        "ru_region": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 0.4770656108358966,
+        "region": "karachay-cherkess republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 1.247219604297183,
+        "region": "karelia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 1.204724019939376,
+        "region": "kemerovo oblast",
+        "ru_region": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c - \u041a\u0443\u0437\u0431\u0430\u0441\u0441"
+    },
+    {
+        "diffcase_residual": 0.5028939252480127,
+        "region": "khabarovsk krai",
+        "ru_region": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 0.8470132776792695,
+        "region": "khakassia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u0430\u043a\u0430\u0441\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.4582274971644203,
+        "region": "khanty-mansi autonomous okrug",
+        "ru_region": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u043a\u0438\u0439\u0441\u043a\u0438\u0439 \u0410\u041e"
+    },
+    {
+        "diffcase_residual": 0.7563610446221979,
+        "region": "kirov oblast",
+        "ru_region": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 1.5992318679455324,
+        "region": "komi republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u043e\u043c\u0438"
+    },
+    {
+        "diffcase_residual": 1.2092589959542397,
+        "region": "kostroma oblast",
+        "ru_region": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.37238021638895724,
+        "region": "krasnodar krai",
+        "ru_region": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 0.8197805787354001,
+        "region": "krasnoyarsk krai",
+        "ru_region": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 1.4259495948336813,
+        "region": "kurgan oblast",
+        "ru_region": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.3604570754293307,
+        "region": "kursk oblast",
+        "ru_region": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.4371754852059211,
+        "region": "leningrad oblast",
+        "ru_region": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.20602215663694104,
+        "region": "lipetsk oblast",
+        "ru_region": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 1.20116915481312,
+        "region": "magadan oblast",
+        "ru_region": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.5869753707471879,
+        "region": "mari el republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0440\u0438\u0439-\u042d\u043b"
+    },
+    {
+        "diffcase_residual": 0.29718322572268574,
+        "region": "mordovia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 2.520846338615161,
+        "region": "moscow",
+        "ru_region": "\u0433 \u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    {
+        "diffcase_residual": 0.9623725892905453,
+        "region": "moscow oblast",
+        "ru_region": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.8576622789972248,
+        "region": "murmansk oblast",
+        "ru_region": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.4609050710292963,
+        "region": "nizhny novgorod oblast",
+        "ru_region": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.7393802371359274,
+        "region": "north ossetia - alania republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.6602470844064297,
+        "region": "novgorod oblast",
+        "ru_region": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.3107075257105245,
+        "region": "novosibirsk oblast",
+        "ru_region": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.5296386441279456,
+        "region": "omsk oblast",
+        "ru_region": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.7518874483450411,
+        "region": "orel oblast",
+        "ru_region": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.25672694592636214,
+        "region": "orenburg oblast",
+        "ru_region": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.43402970340141833,
+        "region": "penza oblast",
+        "ru_region": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.7174083841556933,
+        "region": "perm krai",
+        "ru_region": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 0.4202466548140746,
+        "region": "primorsky krai",
+        "ru_region": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 1.719972411026032,
+        "region": "pskov oblast",
+        "ru_region": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 1.435909560086115,
+        "region": "republic of crimea",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u0440\u044b\u043c"
+    },
+    {
+        "diffcase_residual": 0.5064665313652439,
+        "region": "rostov oblast",
+        "ru_region": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.4567203571459396,
+        "region": "ryazan oblast",
+        "ru_region": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.9315944031379993,
+        "region": "saint petersburg",
+        "ru_region": "\u0433 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
+    },
+    {
+        "diffcase_residual": 0.5417565510549188,
+        "region": "sakha (yakutiya) republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042f\u043a\u0443\u0442\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 1.5220481172358493,
+        "region": "sakhalin oblast",
+        "ru_region": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 1.1808353905340976,
+        "region": "samara oblast",
+        "ru_region": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.3102132180571571,
+        "region": "saratov oblast",
+        "ru_region": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.8152753495750775,
+        "region": "sevastopol",
+        "ru_region": "\u0433 \u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c"
+    },
+    {
+        "diffcase_residual": 0.6378955043922127,
+        "region": "smolensk oblast",
+        "ru_region": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.9497490071459024,
+        "region": "stavropol krai",
+        "ru_region": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    },
+    {
+        "diffcase_residual": 1.0315118459008044,
+        "region": "sverdlovsk oblast",
+        "ru_region": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.3146265779966575,
+        "region": "tambov oblast",
+        "ru_region": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.31262209246320993,
+        "region": "tatarstan republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d"
+    },
+    {
+        "diffcase_residual": 0.7532883831056514,
+        "region": "tomsk oblast",
+        "ru_region": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.21624402292240907,
+        "region": "tula oblast",
+        "ru_region": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.382555689609501,
+        "region": "tver oblast",
+        "ru_region": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.6882510329409219,
+        "region": "tyumen oblast",
+        "ru_region": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.7700224616140886,
+        "region": "tyva republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u044b\u0432\u0430"
+    },
+    {
+        "diffcase_residual": 0.3416604926487922,
+        "region": "udmurt republic",
+        "ru_region": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0434\u043c\u0443\u0440\u0442\u0438\u044f"
+    },
+    {
+        "diffcase_residual": 0.6012335566556953,
+        "region": "ulyanovsk oblast",
+        "ru_region": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+    },
+    {
+        "diffcase_residual": 0.3412277589466994,
+        "region": "vladimir oblast",
+        "ru_region": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.44671399879416734,
+        "region": "volgograd oblast",
+        "ru_region": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.7057568145880215,
+        "region": "vologda oblast",
+        "ru_region": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.35035174377910056,
+        "region": "voronezh oblast",
+        "ru_region": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 1.030744837221364,
+        "region": "yamalo-nenets autonomous okrug",
+        "ru_region": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0410\u041e"
+    },
+    {
+        "diffcase_residual": 0.35476634243301414,
+        "region": "yaroslavl oblast",
+        "ru_region": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+    },
+    {
+        "diffcase_residual": 0.3959661292578961,
+        "region": "zabaykalsky krai",
+        "ru_region": "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+    }
+]
