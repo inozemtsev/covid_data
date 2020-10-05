@@ -1,417 +1,488 @@
 [
     {
-        "diffcase_residual": 0.15882163043121741,
-        "region": "\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u0430\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.339512806918141,
+        "diffcase_residual": 0.339512806918141,
+        "region": "altayskiy kray",
+        "ru_region": "\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.2611319106757359,
-        "region": "\u0430\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0430\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.3672994437279091,
+        "diffcase_residual": 0.3672994437279091,
+        "region": "amursk oblast",
+        "ru_region": "\u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 35.37783226913703,
-        "region": "\u0430\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0430\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 25.328065930719756,
+        "diffcase_residual": 25.328065930719756,
+        "region": "arkhangelsk oblast",
+        "ru_region": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.2816922973078241,
-        "region": "\u0431\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0431\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.3136726722770688,
+        "diffcase_residual": 0.3136726722770688,
+        "region": "belgorod oblast",
+        "ru_region": "\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.5426532559085965,
-        "region": "\u0431\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0431\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.5537112153608479,
+        "diffcase_residual": 0.5537112153608479,
+        "region": "briansk oblast",
+        "ru_region": "\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.361289476972727,
-        "region": "\u0432\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0432\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.5183903673599758,
+        "diffcase_residual": 0.5183903673599758,
+        "region": "chechen republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0427\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f"
     },
     {
-        "diffcase_residual": 0.27395074384572626,
-        "region": "\u0432\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0432\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.5187719950178514,
+        "diffcase_residual": 0.5187719950178514,
+        "region": "cheliabinsk oblast",
+        "ru_region": "\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.26484542954945556,
-        "region": "\u0432\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0432\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.5817223917419471,
+        "diffcase_residual": 0.5817223917419471,
+        "region": "habarovskiy kray",
+        "ru_region": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.37717751614960077,
-        "region": "\u0432\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0432\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.44495875267494567,
+        "diffcase_residual": 0.44495875267494567,
+        "region": "hanty-mansiyskiy ao",
+        "ru_region": "\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430"
     },
     {
-        "diffcase_residual": 0.6915869920969261,
-        "region": "\u0433 \u0441\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c",
-        "ru_region": "\u0433 \u0441\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c"
+        "color": 0.5715689534588124,
+        "diffcase_residual": 0.5715689534588124,
+        "region": "ingushetia republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0418\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f"
     },
     {
-        "diffcase_residual": 2.2679018796735773,
-        "region": "\u0433. \u043c\u043e\u0441\u043a\u0432\u0430",
-        "ru_region": "\u0433. \u043c\u043e\u0441\u043a\u0432\u0430"
+        "color": 0.6543231635114832,
+        "diffcase_residual": 0.6543231635114832,
+        "region": "irkutsk oblast",
+        "ru_region": "\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.5235136547597081,
-        "region": "\u0433. \u0441\u0430\u043d\u043a\u0442-\u043f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
-        "ru_region": "\u0433. \u0441\u0430\u043d\u043a\u0442-\u043f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
+        "color": 0.4292568940284517,
+        "diffcase_residual": 0.4292568940284517,
+        "region": "ivanovo oblast",
+        "ru_region": "\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.2384290370743462,
-        "region": "\u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u043e\u0431\u043b",
-        "ru_region": "\u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0430\u043e\u0431\u043b"
+        "color": 0.34078222862963836,
+        "diffcase_residual": 0.34078222862963836,
+        "region": "jewish autonomous oblast",
+        "ru_region": "\u0415\u0432\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u0410\u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.42189786563181025,
-        "region": "\u0437\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u0437\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.640568270614359,
+        "diffcase_residual": 0.640568270614359,
+        "region": "kaliningrad oblast",
+        "ru_region": "\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.3851423757211302,
-        "region": "\u0438\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0438\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.37306042779928184,
+        "diffcase_residual": 0.37306042779928184,
+        "region": "kaluga oblast",
+        "ru_region": "\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.7329361940517582,
-        "region": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0438\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.8120644741191674,
+        "diffcase_residual": 0.8120644741191674,
+        "region": "kamchatskiy kray",
+        "ru_region": "\u041a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.4864692786915625,
-        "region": "\u043a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.5909275371184685,
+        "diffcase_residual": 0.5909275371184685,
+        "region": "kemerovo oblast",
+        "ru_region": "\u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
     },
     {
-        "diffcase_residual": 0.49320201454810253,
-        "region": "\u043a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.564257438433952,
+        "diffcase_residual": 0.564257438433952,
+        "region": "kirov oblast",
+        "ru_region": "\u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.6284092256034741,
-        "region": "\u043a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u043a\u0430\u043c\u0447\u0430\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.8561827385650743,
+        "diffcase_residual": 0.8561827385650743,
+        "region": "komi republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u043e\u043c\u0438"
     },
     {
-        "diffcase_residual": 0.2512499475465241,
-        "region": "\u043a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c - \u043a\u0443\u0437\u0431\u0430\u0441\u0441",
-        "ru_region": "\u043a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c - \u043a\u0443\u0437\u0431\u0430\u0441\u0441"
+        "color": 1.0767410065770604,
+        "diffcase_residual": 1.0767410065770604,
+        "region": "kostroma oblast",
+        "ru_region": "\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.3052997118368507,
-        "region": "\u043a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u043a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.20210105455129884,
+        "diffcase_residual": 0.20210105455129884,
+        "region": "krasnodarskiy kray",
+        "ru_region": "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.7543876450749262,
-        "region": "\u043a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.5192672380413287,
+        "diffcase_residual": 0.5192672380413287,
+        "region": "krasnoyarskiy kray",
+        "ru_region": "\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.16403074993744218,
-        "region": "\u043a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u043a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.5048152872401195,
+        "diffcase_residual": 0.5048152872401195,
+        "region": "kurgan oblast",
+        "ru_region": "\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.4781511086733513,
-        "region": "\u043a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u043a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.40943210293671356,
+        "diffcase_residual": 0.40943210293671356,
+        "region": "kursk oblast",
+        "ru_region": "\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.33050706366286453,
-        "region": "\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.24078894046250338,
+        "diffcase_residual": 0.24078894046250338,
+        "region": "leningradskaya oblast",
+        "ru_region": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.5000259298269147,
-        "region": "\u043a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043a\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.2314605513226058,
+        "diffcase_residual": 0.2314605513226058,
+        "region": "lipetsk oblast",
+        "ru_region": "\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.22173560741812315,
-        "region": "\u043b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u043b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.9110570313143174,
+        "diffcase_residual": 0.9110570313143174,
+        "region": "magadan oblast",
+        "ru_region": "\u041c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.15010358008777214,
-        "region": "\u043b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 2.1476084819334567,
+        "diffcase_residual": 2.1476084819334567,
+        "region": "moscow",
+        "ru_region": "\u0433 \u041c\u043e\u0441\u043a\u0432\u0430"
     },
     {
-        "diffcase_residual": 0.48701007559116816,
-        "region": "\u043c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u043c\u0430\u0433\u0430\u0434\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.6832462953491282,
+        "diffcase_residual": 0.6832462953491282,
+        "region": "moscow oblast",
+        "ru_region": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.6493259937678225,
-        "region": "\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u043c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.47119437822628607,
+        "diffcase_residual": 0.47119437822628607,
+        "region": "murmansk oblast",
+        "ru_region": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.4016484172523255,
-        "region": "\u043c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u043c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.43268527310239335,
+        "diffcase_residual": 0.43268527310239335,
+        "region": "nizhegorodskaya oblast",
+        "ru_region": "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.9219071601523864,
-        "region": "\u043d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u043e",
-        "ru_region": "\u043d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u043e"
+        "color": 0.44816084122475647,
+        "diffcase_residual": 0.44816084122475647,
+        "region": "novgorod oblast",
+        "ru_region": "\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.3311015430635781,
-        "region": "\u043d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u043d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.46502523994785255,
+        "diffcase_residual": 0.46502523994785255,
+        "region": "novosibirsk oblast",
+        "ru_region": "\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.3895846511868538,
-        "region": "\u043d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.49371908386440805,
+        "diffcase_residual": 0.49371908386440805,
+        "region": "omsk oblast",
+        "ru_region": "\u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.5153251912223246,
-        "region": "\u043d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.5052589185741656,
+        "diffcase_residual": 0.5052589185741656,
+        "region": "orel oblast",
+        "ru_region": "\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.42214640163738204,
-        "region": "\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.14988474666005183,
+        "diffcase_residual": 0.14988474666005183,
+        "region": "orenburg oblast",
+        "ru_region": "\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.13096767041721966,
-        "region": "\u043e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.33510384712734326,
+        "diffcase_residual": 0.33510384712734326,
+        "region": "pensa oblast",
+        "ru_region": "\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.21062319916006647,
-        "region": "\u043e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.4325536138650803,
+        "diffcase_residual": 0.4325536138650803,
+        "region": "perm oblast",
+        "ru_region": "\u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.1912908587632654,
-        "region": "\u043f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.19174976161961352,
+        "diffcase_residual": 0.19174976161961352,
+        "region": "primorskiy kray",
+        "ru_region": "\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.24578371481429578,
-        "region": "\u043f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u043f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 1.1708801446154558,
+        "diffcase_residual": 1.1708801446154558,
+        "region": "pskov oblast",
+        "ru_region": "\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.17531845456620948,
-        "region": "\u043f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u043f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.48716420201760235,
+        "diffcase_residual": 0.48716420201760235,
+        "region": "republic of adygeia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0410\u0434\u044b\u0433\u0435\u044f"
     },
     {
-        "diffcase_residual": 0.9309288274843344,
-        "region": "\u043f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u043f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 1.4001569671173235,
+        "diffcase_residual": 1.4001569671173235,
+        "region": "republic of altay",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0410\u043b\u0442\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.18593584854292416,
-        "region": "\u0440\u0435\u0441\u043f \u0434\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
-        "ru_region": "\u0440\u0435\u0441\u043f \u0434\u0430\u0433\u0435\u0441\u0442\u0430\u043d"
+        "color": 0.30470944395610094,
+        "diffcase_residual": 0.30470944395610094,
+        "region": "republic of bashkortostan",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d"
     },
     {
-        "diffcase_residual": 0.33273699157772846,
-        "region": "\u0440\u0435\u0441\u043f \u0438\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u0438\u043d\u0433\u0443\u0448\u0435\u0442\u0438\u044f"
+        "color": 0.6150924338279816,
+        "diffcase_residual": 0.6150924338279816,
+        "region": "republic of buriatia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0411\u0443\u0440\u044f\u0442\u0438\u044f"
     },
     {
-        "diffcase_residual": 0.16015993169622542,
-        "region": "\u0440\u0435\u0441\u043f \u043a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0431\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u043a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0431\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f"
+        "color": 0.28006510418069624,
+        "diffcase_residual": 0.28006510418069624,
+        "region": "republic of chuvashia",
+        "ru_region": "\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 - \u0427\u0443\u0432\u0430\u0448\u0438\u044f"
     },
     {
-        "diffcase_residual": 0.8486871979781804,
-        "region": "\u0440\u0435\u0441\u043f \u043a\u0430\u043b\u043c\u044b\u043a\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u043a\u0430\u043b\u043c\u044b\u043a\u0438\u044f"
+        "color": 1.306870940915919,
+        "diffcase_residual": 1.306870940915919,
+        "region": "republic of crimea",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u0440\u044b\u043c"
     },
     {
-        "diffcase_residual": 0.25732429405787505,
-        "region": "\u0440\u0435\u0441\u043f \u043a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0447\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u043a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0447\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f"
+        "color": 0.2360108732299279,
+        "diffcase_residual": 0.2360108732299279,
+        "region": "republic of dagestan",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d"
     },
     {
-        "diffcase_residual": 0.9041268300366543,
-        "region": "\u0440\u0435\u0441\u043f \u043a\u0430\u0440\u0435\u043b\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u043a\u0430\u0440\u0435\u043b\u0438\u044f"
+        "color": 0.4481513758647915,
+        "diffcase_residual": 0.4481513758647915,
+        "region": "republic of hakassia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0425\u0430\u043a\u0430\u0441\u0438\u044f"
     },
     {
-        "diffcase_residual": 0.4826595858268732,
-        "region": "\u0440\u0435\u0441\u043f \u043a\u043e\u043c\u0438",
-        "ru_region": "\u0440\u0435\u0441\u043f \u043a\u043e\u043c\u0438"
+        "color": 0.21294655662155088,
+        "diffcase_residual": 0.21294655662155088,
+        "region": "republic of kabardino-balkaria",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0441\u043a\u0430\u044f"
     },
     {
-        "diffcase_residual": 0.9804393339351565,
-        "region": "\u0440\u0435\u0441\u043f \u043a\u0440\u044b\u043c",
-        "ru_region": "\u0440\u0435\u0441\u043f \u043a\u0440\u044b\u043c"
+        "color": 1.7891529965160196,
+        "diffcase_residual": 1.7891529965160196,
+        "region": "republic of kalmykia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u0430\u043b\u043c\u044b\u043a\u0438\u044f"
     },
     {
-        "diffcase_residual": 0.32290215908969594,
-        "region": "\u0440\u0435\u0441\u043f \u0441\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u0441\u0435\u0442\u0438\u044f - \u0430\u043b\u0430\u043d\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u0441\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u043e\u0441\u0435\u0442\u0438\u044f - \u0430\u043b\u0430\u043d\u0438\u044f"
+        "color": 0.3953809450096178,
+        "diffcase_residual": 0.3953809450096178,
+        "region": "republic of karachaevo-cherkessia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0441\u043a\u0430\u044f"
     },
     {
-        "diffcase_residual": 0.34161048998439225,
-        "region": "\u0440\u0435\u0441\u043f \u0443\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u0443\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f"
+        "color": 1.0384437891487464,
+        "diffcase_residual": 1.0384437891487464,
+        "region": "republic of karelia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041a\u0430\u0440\u0435\u043b\u0438\u044f"
     },
     {
-        "diffcase_residual": 0.1775388746397846,
-        "region": "\u0440\u0435\u0441\u043f \u0445\u0430\u043a\u0430\u0441\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u0445\u0430\u043a\u0430\u0441\u0438\u044f"
+        "color": 0.2136525140835919,
+        "diffcase_residual": 0.2136525140835919,
+        "region": "republic of mariy el",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041c\u0430\u0440\u0438\u0439 \u042d\u043b"
     },
     {
-        "diffcase_residual": 0.48033528164045675,
-        "region": "\u0440\u0435\u0441\u043f \u0447\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f \u0447\u0435\u0447\u0435\u043d\u0441\u043a\u0430\u044f"
+        "color": 0.1677618393402256,
+        "diffcase_residual": 0.1677618393402256,
+        "region": "republic of mordovia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u041c\u043e\u0440\u0434\u043e\u0432\u0438\u044f"
     },
     {
-        "diffcase_residual": 0.3353563355462681,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0430\u0434\u044b\u0433\u0435\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0430\u0434\u044b\u0433\u0435\u044f"
+        "color": 0.41339852123260323,
+        "diffcase_residual": 0.41339852123260323,
+        "region": "republic of north osetia - alania",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f - \u0410\u043b\u0430\u043d\u0438\u044f"
     },
     {
-        "diffcase_residual": 1.3184769110692438,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0430\u043b\u0442\u0430\u0439",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0430\u043b\u0442\u0430\u0439"
+        "color": 0.2312303418528102,
+        "diffcase_residual": 0.2312303418528102,
+        "region": "republic of tatarstan",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d"
     },
     {
-        "diffcase_residual": 0.26802412479212157,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d"
+        "color": 0.3570968850618648,
+        "diffcase_residual": 0.3570968850618648,
+        "region": "republic of udmurtia",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f"
     },
     {
-        "diffcase_residual": 0.5139185402534087,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u0443\u0440\u044f\u0442\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0431\u0443\u0440\u044f\u0442\u0438\u044f"
+        "color": 0.28777110864597055,
+        "diffcase_residual": 0.28777110864597055,
+        "region": "rostov oblast",
+        "ru_region": "\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.14385724019579893,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u043c\u0430\u0440\u0438\u0439 \u044d\u043b",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u043c\u0430\u0440\u0438\u0439 \u044d\u043b"
+        "color": 0.3132615748353522,
+        "diffcase_residual": 0.3132615748353522,
+        "region": "ryazan oblast",
+        "ru_region": "\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.15016060458601355,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u043c\u043e\u0440\u0434\u043e\u0432\u0438\u044f",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u043c\u043e\u0440\u0434\u043e\u0432\u0438\u044f"
+        "color": 0.40599540404132267,
+        "diffcase_residual": 0.40599540404132267,
+        "region": "saha republic",
+        "ru_region": "\u0420\u0435\u0441\u043f \u0421\u0430\u0445\u0430 /\u042f\u043a\u0443\u0442\u0438\u044f/"
     },
     {
-        "diffcase_residual": 0.18166857266224978,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u0430\u0445\u0430 (\u044f\u043a\u0443\u0442\u0438\u044f)",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0441\u0430\u0445\u0430 (\u044f\u043a\u0443\u0442\u0438\u044f)"
+        "color": 0.5884350771162248,
+        "diffcase_residual": 0.5884350771162248,
+        "region": "saint petersburg",
+        "ru_region": "\u0433 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433"
     },
     {
-        "diffcase_residual": 0.3415529425575903,
-        "region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0442\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d",
-        "ru_region": "\u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0442\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d"
+        "color": 0.5743203917338974,
+        "diffcase_residual": 0.5743203917338974,
+        "region": "sakhalin oblast",
+        "ru_region": "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.28208366610629926,
-        "region": "\u0440\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0440\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.6359305948039674,
+        "diffcase_residual": 0.6359305948039674,
+        "region": "samara oblast",
+        "ru_region": "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.29494658742680746,
-        "region": "\u0440\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0440\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.24145101901511268,
+        "diffcase_residual": 0.24145101901511268,
+        "region": "saratov oblast",
+        "ru_region": "\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.42994178654559534,
-        "region": "\u0441\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0441\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.9983454365050459,
+        "diffcase_residual": 0.9983454365050459,
+        "region": "sevastopol",
+        "ru_region": "\u0433 \u0421\u0435\u0432\u0430\u0441\u0442\u043e\u043f\u043e\u043b\u044c"
     },
     {
-        "diffcase_residual": 0.2935503341039449,
-        "region": "\u0441\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0441\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.6932935637182615,
+        "diffcase_residual": 0.6932935637182615,
+        "region": "smolensk oblast",
+        "ru_region": "\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.42805418735129674,
-        "region": "\u0441\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0441\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.6303869215150998,
+        "diffcase_residual": 0.6303869215150998,
+        "region": "stavropolskiy kray",
+        "ru_region": "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     },
     {
-        "diffcase_residual": 0.35818588912698124,
-        "region": "\u0441\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0441\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.6755164542914702,
+        "diffcase_residual": 0.6755164542914702,
+        "region": "sverdlov oblast",
+        "ru_region": "\u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.6646819559164057,
-        "region": "\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.18298681825628538,
+        "diffcase_residual": 0.18298681825628538,
+        "region": "tambov oblast",
+        "ru_region": "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.2306125829558361,
-        "region": "\u0441\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u0441\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.8051912208095906,
+        "diffcase_residual": 0.8051912208095906,
+        "region": "tomsk oblast",
+        "ru_region": "\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.11907166468049643,
-        "region": "\u0442\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0442\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 14.760030930183884,
+        "diffcase_residual": 14.760030930183884,
+        "region": "tula oblast",
+        "ru_region": "\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.30943520182079975,
-        "region": "\u0442\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0442\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.36466862890756696,
+        "diffcase_residual": 0.36466862890756696,
+        "region": "tumen oblast",
+        "ru_region": "\u0422\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.5472085353606092,
-        "region": "\u0442\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0442\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.3073014742354522,
+        "diffcase_residual": 0.3073014742354522,
+        "region": "tver oblast",
+        "ru_region": "\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 16.023706875037263,
-        "region": "\u0442\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0442\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.4016884263263008,
+        "diffcase_residual": 0.4016884263263008,
+        "region": "ulianovsk oblast",
+        "ru_region": "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.3993970312626408,
-        "region": "\u0442\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0442\u044e\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.2799228507438092,
+        "diffcase_residual": 0.2799228507438092,
+        "region": "vladimir oblast",
+        "ru_region": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.3584213296016014,
-        "region": "\u0443\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u0443\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.3630491989028678,
+        "diffcase_residual": 0.3630491989028678,
+        "region": "volgograd oblast",
+        "ru_region": "\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.5307503907532154,
-        "region": "\u0445\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439",
-        "ru_region": "\u0445\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
+        "color": 0.35287745150141664,
+        "diffcase_residual": 0.35287745150141664,
+        "region": "vologda oblast",
+        "ru_region": "\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.44906142103187546,
-        "region": "\u0445\u0430\u043d\u0442\u044b-\u043c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u044e\u0433\u0440\u0430",
-        "ru_region": "\u0445\u0430\u043d\u0442\u044b-\u043c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u044e\u0433\u0440\u0430"
+        "color": 0.2883958614564562,
+        "diffcase_residual": 0.2883958614564562,
+        "region": "voronezh oblast",
+        "ru_region": "\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.6501930779548132,
-        "region": "\u0447\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-        "ru_region": "\u0447\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c"
+        "color": 0.6177123138808219,
+        "diffcase_residual": 0.6177123138808219,
+        "region": "yamalo-nenetskiy ao",
+        "ru_region": "\u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0410\u041e"
     },
     {
-        "diffcase_residual": 0.3156900838351345,
-        "region": "\u0447\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 - \u0447\u0443\u0432\u0430\u0448\u0438\u044f",
-        "ru_region": "\u0447\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u0440\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 - \u0447\u0443\u0432\u0430\u0448\u0438\u044f"
+        "color": 0.28876643462757795,
+        "diffcase_residual": 0.28876643462757795,
+        "region": "yaroslavl oblast",
+        "ru_region": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
     },
     {
-        "diffcase_residual": 0.2532057615789482,
-        "region": "\u0447\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
-        "ru_region": "\u0447\u0443\u043a\u043e\u0442\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
-    },
-    {
-        "diffcase_residual": 0.49689054141823213,
-        "region": "\u044f\u043c\u0430\u043b\u043e-\u043d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433",
-        "ru_region": "\u044f\u043c\u0430\u043b\u043e-\u043d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
-    },
-    {
-        "diffcase_residual": 0.3279277085191765,
-        "region": "\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b",
-        "ru_region": "\u044f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b"
+        "color": 0.42428319770674966,
+        "diffcase_residual": 0.42428319770674966,
+        "region": "zabaykalskiy kray",
+        "ru_region": "\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439"
     }
 ]
